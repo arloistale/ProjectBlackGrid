@@ -1,0 +1,186 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 670M (ID=0x1213)
+    Vendor:   NVIDIA
+    VRAM:     3019 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Jonathan\Documents\GitHub\ProjectChessStone\ProjectChessStone\ChessStone\Build\ChessStone_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Jonathan\Documents\GitHub\ProjectChessStone\ProjectChessStone\ChessStone\Build\ChessStone_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Jonathan\Documents\GitHub\ProjectChessStone\ProjectChessStone\ChessStone\Build\ChessStone_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Jonathan\Documents\GitHub\ProjectChessStone\ProjectChessStone\ChessStone\Build\ChessStone_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Jonathan\Documents\GitHub\ProjectChessStone\ProjectChessStone\ChessStone\Build\ChessStone_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Jonathan\Documents\GitHub\ProjectChessStone\ProjectChessStone\ChessStone\Build\ChessStone_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Jonathan\Documents\GitHub\ProjectChessStone\ProjectChessStone\ChessStone\Build\ChessStone_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Jonathan\Documents\GitHub\ProjectChessStone\ProjectChessStone\ChessStone\Build\ChessStone_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Jonathan\Documents\GitHub\ProjectChessStone\ProjectChessStone\ChessStone\Build\ChessStone_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Jonathan\Documents\GitHub\ProjectChessStone\ProjectChessStone\ChessStone\Build\ChessStone_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Jonathan\Documents\GitHub\ProjectChessStone\ProjectChessStone\ChessStone\Build\ChessStone_Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll (this message is harmless)
+Loading C:\Users\Jonathan\Documents\GitHub\ProjectChessStone\ProjectChessStone\ChessStone\Build\ChessStone_Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll into Unity Child Domain
+Platform assembly: C:\Users\Jonathan\Documents\GitHub\ProjectChessStone\ProjectChessStone\ChessStone\Build\ChessStone_Data\Managed\Pathfinding.JsonFx.dll (this message is harmless)
+Loading C:\Users\Jonathan\Documents\GitHub\ProjectChessStone\ProjectChessStone\ChessStone\Build\ChessStone_Data\Managed\Pathfinding.JsonFx.dll into Unity Child Domain
+Platform assembly: C:\Users\Jonathan\Documents\GitHub\ProjectChessStone\ProjectChessStone\ChessStone\Build\ChessStone_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading C:\Users\Jonathan\Documents\GitHub\ProjectChessStone\ProjectChessStone\ChessStone\Build\ChessStone_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
+Platform assembly: C:\Users\Jonathan\Documents\GitHub\ProjectChessStone\ProjectChessStone\ChessStone\Build\ChessStone_Data\Managed\SQLite4Unity3d.dll (this message is harmless)
+Loading C:\Users\Jonathan\Documents\GitHub\ProjectChessStone\ProjectChessStone\ChessStone\Build\ChessStone_Data\Managed\SQLite4Unity3d.dll into Unity Child Domain
+Platform assembly: C:\Users\Jonathan\Documents\GitHub\ProjectChessStone\ProjectChessStone\ChessStone\Build\ChessStone_Data\Managed\Ionic.Zlib.dll (this message is harmless)
+Loading C:\Users\Jonathan\Documents\GitHub\ProjectChessStone\ProjectChessStone\ChessStone\Build\ChessStone_Data\Managed\Ionic.Zlib.dll into Unity Child Domain
+- Completed reload, in  0.238 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Jonathan\Documents\GitHub\ProjectChessStone\ProjectChessStone\ChessStone\Build\ChessStone_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Jonathan\Documents\GitHub\ProjectChessStone\ProjectChessStone\ChessStone\Build\ChessStone_Data\Managed\System.dll (this message is harmless)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.486728 ms
+System memory in use before: 11.4 MB.
+System memory in use after: 11.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 447.
+Total: 0.236496 ms (FindLiveObjects: 0.030343 ms CreateObjectMapping: 0.017848 ms MarkObjects: 0.173133 ms  DeleteObjects: 0.014279 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.284242 ms
+System memory in use before: 14.0 MB.
+System memory in use after: 14.1 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1105.
+Total: 0.574732 ms (FindLiveObjects: 0.052654 ms CreateObjectMapping: 0.026773 ms MarkObjects: 0.489057 ms  DeleteObjects: 0.005354 ms)
+
+Platform assembly: C:\Users\Jonathan\Documents\GitHub\ProjectChessStone\ProjectChessStone\ChessStone\Build\ChessStone_Data\Managed\System.Xml.Linq.dll (this message is harmless)
+Platform assembly: C:\Users\Jonathan\Documents\GitHub\ProjectChessStone\ProjectChessStone\ChessStone\Build\ChessStone_Data\Managed\System.Xml.dll (this message is harmless)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+Loaded sprite: healdrunks_Blue (UnityEngine.Sprite)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+NodeDomainData:LoadSprite(String) (at C:\Users\Jonathan\Documents\GitHub\ProjectChessStone\ProjectChessStone\ChessStone\Assets\Scripts\DataModels\NodeDomainData.cs:49)
+NodeDomainData:get_sprite() (at C:\Users\Jonathan\Documents\GitHub\ProjectChessStone\ProjectChessStone\ChessStone\Assets\Scripts\DataModels\NodeDomainData.cs:32)
+NodeBuilder:BuildNode(Int32, String, Vector2) (at C:\Users\Jonathan\Documents\GitHub\ProjectChessStone\ProjectChessStone\ChessStone\Assets\Scripts\Builders\NodeBuilder.cs:64)
+NodeMap:ConfigureObjects() (at C:\Users\Jonathan\Documents\GitHub\ProjectChessStone\ProjectChessStone\ChessStone\Assets\Scripts\NodeSystem\NodeMap.cs:133)
+<LoadRegionProgress>c__Iterator1B:MoveNext() (at C:\Users\Jonathan\Documents\GitHub\ProjectChessStone\ProjectChessStone\ChessStone\Assets\Scripts\NodeSystem\NodeMap.cs:80)
+ 
+(Filename: C:/Users/Jonathan/Documents/GitHub/ProjectChessStone/ProjectChessStone/ChessStone/Assets/Scripts/DataModels/NodeDomainData.cs Line: 49)
+
+Loaded sprite: plasmaballl_0 (UnityEngine.Sprite)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+NodeDomainData:LoadSprite(String) (at C:\Users\Jonathan\Documents\GitHub\ProjectChessStone\ProjectChessStone\ChessStone\Assets\Scripts\DataModels\NodeDomainData.cs:49)
+NodeDomainData:get_sprite() (at C:\Users\Jonathan\Documents\GitHub\ProjectChessStone\ProjectChessStone\ChessStone\Assets\Scripts\DataModels\NodeDomainData.cs:32)
+NodeBuilder:BuildNode(Int32, String, Vector2) (at C:\Users\Jonathan\Documents\GitHub\ProjectChessStone\ProjectChessStone\ChessStone\Assets\Scripts\Builders\NodeBuilder.cs:64)
+NodeMap:ConfigureObjects() (at C:\Users\Jonathan\Documents\GitHub\ProjectChessStone\ProjectChessStone\ChessStone\Assets\Scripts\NodeSystem\NodeMap.cs:133)
+<LoadRegionProgress>c__Iterator1B:MoveNext() (at C:\Users\Jonathan\Documents\GitHub\ProjectChessStone\ProjectChessStone\ChessStone\Assets\Scripts\NodeSystem\NodeMap.cs:80)
+ 
+(Filename: C:/Users/Jonathan/Documents/GitHub/ProjectChessStone/ProjectChessStone/ChessStone/Assets/Scripts/DataModels/NodeDomainData.cs Line: 49)
+
+Loaded sprite: plasmaballl_0 (UnityEngine.Sprite)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+NodeDomainData:LoadSprite(String) (at C:\Users\Jonathan\Documents\GitHub\ProjectChessStone\ProjectChessStone\ChessStone\Assets\Scripts\DataModels\NodeDomainData.cs:49)
+NodeDomainData:get_sprite() (at C:\Users\Jonathan\Documents\GitHub\ProjectChessStone\ProjectChessStone\ChessStone\Assets\Scripts\DataModels\NodeDomainData.cs:32)
+NodeBuilder:BuildNode(Int32, String, Vector2) (at C:\Users\Jonathan\Documents\GitHub\ProjectChessStone\ProjectChessStone\ChessStone\Assets\Scripts\Builders\NodeBuilder.cs:64)
+NodeMap:ConfigureObjects() (at C:\Users\Jonathan\Documents\GitHub\ProjectChessStone\ProjectChessStone\ChessStone\Assets\Scripts\NodeSystem\NodeMap.cs:133)
+<LoadRegionProgress>c__Iterator1B:MoveNext() (at C:\Users\Jonathan\Documents\GitHub\ProjectChessStone\ProjectChessStone\ChessStone\Assets\Scripts\NodeSystem\NodeMap.cs:80)
+ 
+(Filename: C:/Users/Jonathan/Documents/GitHub/ProjectChessStone/ProjectChessStone/ChessStone/Assets/Scripts/DataModels/NodeDomainData.cs Line: 49)
+
+System memory in use before: 12.7 MB.
+System memory in use after: 12.8 MB.
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 2389.
+Total: 1.019614 ms (FindLiveObjects: 0.109324 ms CreateObjectMapping: 0.061132 ms MarkObjects: 0.845141 ms  DeleteObjects: 0.003123 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 12.6 MB.
+System memory in use after: 12.7 MB.
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 2389.
+Total: 0.903596 ms (FindLiveObjects: 0.091475 ms CreateObjectMapping: 0.055777 ms MarkObjects: 0.753220 ms  DeleteObjects: 0.002677 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 12.6 MB.
+System memory in use after: 12.7 MB.
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 2389.
+Total: 0.884409 ms (FindLiveObjects: 0.091029 ms CreateObjectMapping: 0.051315 ms MarkObjects: 0.738495 ms  DeleteObjects: 0.002677 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 12.6 MB.
+System memory in use after: 12.7 MB.
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 2389.
+Total: 0.843356 ms (FindLiveObjects: 0.085674 ms CreateObjectMapping: 0.049976 ms MarkObjects: 0.704582 ms  DeleteObjects: 0.002231 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 12.8 MB.
+System memory in use after: 12.9 MB.
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 2395.
+Total: 1.048618 ms (FindLiveObjects: 0.099060 ms CreateObjectMapping: 0.058454 ms MarkObjects: 0.887978 ms  DeleteObjects: 0.002677 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 12.7 MB.
+System memory in use after: 12.8 MB.
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 2395.
+Total: 0.859867 ms (FindLiveObjects: 0.087459 ms CreateObjectMapping: 0.052207 ms MarkObjects: 0.717076 ms  DeleteObjects: 0.002677 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 12.7 MB.
+System memory in use after: 12.8 MB.
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 2395.
+Total: 0.904489 ms (FindLiveObjects: 0.099060 ms CreateObjectMapping: 0.053992 ms MarkObjects: 0.748311 ms  DeleteObjects: 0.002677 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.575467 ms
+System memory in use before: 11.6 MB.
+System memory in use after: 11.7 MB.
+
+Unloading 333 unused Assets to reduce memory usage. Loaded Objects now: 767.
+Total: 0.753220 ms (FindLiveObjects: 0.046853 ms CreateObjectMapping: 0.075411 ms MarkObjects: 0.549743 ms  DeleteObjects: 0.080319 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 12.2 MB.
+System memory in use after: 12.3 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2054.
+Total: 1.019167 ms (FindLiveObjects: 0.086120 ms CreateObjectMapping: 0.051315 ms MarkObjects: 0.875484 ms  DeleteObjects: 0.005800 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 12.1 MB.
+System memory in use after: 12.2 MB.
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 2054.
+Total: 0.927692 ms (FindLiveObjects: 0.076749 ms CreateObjectMapping: 0.047299 ms MarkObjects: 0.800073 ms  DeleteObjects: 0.002231 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 12.1 MB.
+System memory in use after: 12.2 MB.
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 2054.
+Total: 0.949557 ms (FindLiveObjects: 0.076749 ms CreateObjectMapping: 0.046406 ms MarkObjects: 0.823723 ms  DeleteObjects: 0.002231 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 12.2 MB.
+System memory in use after: 12.2 MB.
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 2067.
+Total: 1.376590 ms (FindLiveObjects: 0.106200 ms CreateObjectMapping: 0.071841 ms MarkObjects: 1.194086 ms  DeleteObjects: 0.003123 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 12.2 MB.
+System memory in use after: 12.3 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2117.
+Total: 2.441719 ms (FindLiveObjects: 0.189643 ms CreateObjectMapping: 0.131188 ms MarkObjects: 2.107946 ms  DeleteObjects: 0.011601 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.132836 ms
+System memory in use before: 11.8 MB.
+System memory in use after: 11.8 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1344.
+Total: 2.620207 ms (FindLiveObjects: 0.120925 ms CreateObjectMapping: 0.114678 ms MarkObjects: 2.367646 ms  DeleteObjects: 0.015617 ms)
+
